@@ -1,1 +1,1 @@
-Buoc 27: ghi dia chi cong khai
+Buoc 28: ra soat truoc khi nop
