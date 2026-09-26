@@ -1,3 +1,0 @@
-vi-du.ptitai.org {
-    reverse_proxy app:8000
-}
