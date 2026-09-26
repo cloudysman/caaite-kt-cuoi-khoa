@@ -1,1 +1,1 @@
-Buoc 1: lap ke hoach du an
+Buoc 2: chon kien truc ba service
