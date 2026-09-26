@@ -1,1 +1,1 @@
-Buoc 17: cau hinh HTTPS tu dong
+Buoc 18: tach bien moi truong ra env
