@@ -1,1 +1,1 @@
-Buoc 11: viet Dockerfile nhieu giai doan
+Buoc 12: them dockerignore
