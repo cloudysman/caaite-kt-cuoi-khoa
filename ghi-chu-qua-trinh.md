@@ -1,1 +1,1 @@
-Buoc 23: cau hinh pytest
+Buoc 24: soan quy trinh CI
