@@ -1,6 +1,6 @@
 services:
   app:
-    build: .
+    image: python:3.12-slim
     expose:
       - "8000"
     env_file:
