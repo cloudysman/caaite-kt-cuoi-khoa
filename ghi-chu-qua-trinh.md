@@ -1,1 +1,1 @@
-Buoc 19: them tep env mau
+Buoc 20: cap nhat gitignore
