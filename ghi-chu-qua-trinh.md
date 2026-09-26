@@ -1,1 +1,1 @@
-Buoc 25: them buoc docker build vao CI
+Buoc 26: viet huong dan chay trong README
