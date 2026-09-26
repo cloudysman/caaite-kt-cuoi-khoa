@@ -1,1 +1,1 @@
-Buoc 7: ket noi PostgreSQL
+Buoc 8: tao bang messages
